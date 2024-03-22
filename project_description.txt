@@ -1,0 +1,17 @@
+You are working for a software company that has been contracted to develop a GUI-based scheduling desktop application.
+The consulting organization has provided a MySQL database that the application must pull data from.
+The database is used for other systems, so its structure cannot be modified.
+
+
+
+Skills Demonstrated:
+Using JDBC to manipulate an external SQL Database
+Add, Retrieve, modify, delete items from a MySQL database respecting Foreign Key constraints.
+Generating reports based on entities in the database
+Supports user accounts and log-ins
+Generate Notifications if there is an appointment within 15 minutes of log in
+Localization using .properties
+Log log-ins into a .txt log file
+Time Zone support and ZonedDateTime, LocalDateTime, Timestamp classes
+Lambda Expressions
+JavaFX and User Interfaces
